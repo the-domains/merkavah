@@ -1,7 +1,7 @@
 name: Merkavah
 favicon: null
-layout_spectrum: 0.737558109452948
-typography_spectrum: 0.6606846821960062
+layout_spectrum: 0.9658
+typography_spectrum: 0.12033
 title: Elucidations and perhaps other things not so thought out
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#ffffff'
+    - '#003b57'
+    - '#ffb200'
+    - '#8fb3b2'
+    - '#2a8aa3'
   brandStrength: 0.8723100516945124
-  lightness: 0.4695003910455853
+  lightness: 0.625
   saturation: 0.9393845489248633
   rhythmicContrast: 0.637863022973761
 purpose: []
